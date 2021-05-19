@@ -1,2 +1,2 @@
-# SmartIM
-即时通讯服务中间件
+# Pigeon
+Distributed instant messaging system
